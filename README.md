@@ -1,2 +1,4 @@
 # blood-donors-curation
-Project written in C# and .Net framework. It is a Hospitals blood donors curation system. There are two main forms, on the first one you can add new donors to system, on the second form you can watch all the donars that was added and/or delete specific one.
+University Windows Forms App project written in C# and .Net Framework. It is an Blood Bank Donars curation app, which contains out of 2 parts, in first part you can add new donars with full personal information, such as Name, Surname, Phone Number, Social ID and etc into the system, and you can also watch all the donars and/or delete them in other part.
+
+Most of the items in window for watching and/or deleting existing donars was coded dynamically in the different static class, because it was a requirement for the project.
