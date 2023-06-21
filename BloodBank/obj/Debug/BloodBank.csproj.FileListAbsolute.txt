@@ -1,0 +1,13 @@
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.StartMenu.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.CreateDoner.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\BloodBank\BloodBank\obj\Debug\BloodBank.Records.resources

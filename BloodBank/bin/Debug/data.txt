@@ -1,0 +1,6 @@
+32344;Nikita;Proskuryakov;64569;666666666;tygo@gmail.com;A+;hydreigon.png
+89278;Kirill;Bautin;64580;555555555;pol@gmail.com;B+;slowpoke.png
+53427;Bohdan;Domin;64377;333333333;bog@gmail.com;O-;Charmeleon.png
+74331;Umidjon;Khodjamov;65148;888999000;umid@gmail.com;AB-;Snorlax.png
+80275;Akram;Kozak;64830;442211000;jesus@gmail.com;B-;Exeggutor.png
+12275;;3;;;;;avatar.jpg
